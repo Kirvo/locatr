@@ -1,0 +1,6 @@
+{
+	"appId": "com.locatr.app",
+	"appName": "locatr",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
